@@ -1,0 +1,4 @@
+baseURL = "https://github.ashbeekim.io/"
+languageCode = "en-us"
+title = "Ashbee's Blog"
+theme = "dimension"
