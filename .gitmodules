@@ -7,11 +7,3 @@
 [submodule "themes/dimension"]
 	path = themes/dimension
 	url = https://github.com/your-identity/hugo-theme-dimension.git
-[submodule "public"]
-	path = public
-	url = git@github.com:AshbeeKim/AshbeeKim.github.io.git
-	branch = master
-[submodule "AshbeeKim.github.io"]
-	path = AshbeeKim.github.io
-	url = git@github.com:AshbeeKim/AshbeeKim.github.io.git
-	branch = master
