@@ -1,7 +1,7 @@
 ---
 title: ASHBEELOG
 description: Ashbee's blog
-background: "../background.jpg"
-logo: "../logo.svg"
+background: "images/background.jpg"
+logo: "images/logo.svg"
 draft : false
 ---
